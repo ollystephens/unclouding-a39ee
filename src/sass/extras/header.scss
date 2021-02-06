@@ -1,7 +1,13 @@
 header.site-header {
-  height: 276px;
-  background-image: url(https://images.ctfassets.net/ypnen50raqm5/4aaQNx3pWzqS7ubPFebLu4/e6b9529e25553a50bb872a4eff484834/446B14E6-E6CF-4CC4-800F-AC8D535F8D76.png);
+  // height: 276px;
+  // background-image: url(https://images.ctfassets.net/ypnen50raqm5/4aaQNx3pWzqS7ubPFebLu4/e6b9529e25553a50bb872a4eff484834/446B14E6-E6CF-4CC4-800F-AC8D535F8D76.png);
+  height: 214px;
+  background-image: url(https://images.ctfassets.net/ypnen50raqm5/42BYJ1WfUKOxxMtynZFfoU/ad1350ad2ccdb3fbf7609707eeee789b/FACEBOOK_BANNER_-_Unclouding.png);
   background-repeat: no-repeat;
-  background-position: left top;
+  background-position: right top;
+  background-color: rgb(220, 185, 42);
+}
+
+footer.site-footer {
   background-color: rgb(220, 185, 42);
 }
